@@ -1,4 +1,4 @@
 let Check = require("./index");
 
-let mockData = Check.getCheck("b");
+let mockData = Check.get("b");
 console.log(mockData);

@@ -16,7 +16,8 @@
     "url": "https://github.com/leandrocurzi/demo-checks/issues"
   },
   "homepage": "https://github.com/leandrocurzi/demo-checks#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "easy-logger": "0.0.5",
     "gulp": "^3.9.1",
     "string": "^3.3.3"

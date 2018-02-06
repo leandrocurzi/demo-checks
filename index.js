@@ -1,7 +1,7 @@
 let string = require("string")
 
 class Check{
-    static getCheck(id){
+    static get(id){
         if(!id || id.trim().length == 0) return null;
 
         return {
