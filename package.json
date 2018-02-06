@@ -1,0 +1,23 @@
+{
+  "name": "pom-test-service-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrocurzi/demo-checks.git"
+  },
+  "author": "Leandro Curzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrocurzi/demo-checks/issues"
+  },
+  "homepage": "https://github.com/leandrocurzi/demo-checks#readme",
+  "devDependencies": {
+    "easy-logger": "0.0.5",
+    "string": "^3.3.3"
+  }
+}
